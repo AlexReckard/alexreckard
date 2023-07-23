@@ -2,17 +2,17 @@
 
 ## I'm a Frontend Developer, Creator, and Lifelong Learner!
 
-- 🔭 I’m currently working on a blog to maintain and scale over time.
-- 🌱 I’m currently learning more about Data Structures and Algorithms.
+- 🚀 I’m currently working on a blog to maintain and scale over time.
+- 📚 I’m currently learning more about Data Structures and Algorithms.
 - 💬 Ask me about: Anything related to Frontend or UI/UX.
-- 📫 How to reach me: <style color=white>www.linkedin.com/in/alexreckard</style>
+- 📧 How to reach me: <style color=white>www.linkedin.com/in/alexreckard</style>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy video games and working out at the gym.
 
 ### Connect with me:
 
 [<img align="left" alt="alex reckard website" width="22px" src="https://alexreckard.com/images/icon.png" />][website]
-[<img align="left" alt="LinkedIn URL" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
+[<img align="left" alt="LinkedIn URL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="Instagram URL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
