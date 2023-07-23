@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there, I'm Alexander, but you can call me Alex 👋
 
-<!--
-**AlexReckard/alexreckard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Frontend Developer, Creator, and Lifelong Learner!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a blog to maintain and scale over time.
+- 🌱 I’m currently learning more about Data Structures and Algorithms.
+- 💬 Ask me about: Anything related to Frontend or UI/UX.
+- 📫 How to reach me: www.linkedin.com/in/alexreckard
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy video games and working out at the gym.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="yourWebsite.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn URL" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram URL" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />]
+
+<br />
+<br />
+
+---
+
+[website]: https://alexreckard.com
+[instagram]: https://www.instagram.com/alex_reckard
+[linkedin]: https://www.linkedin.com/in/alexreckard
