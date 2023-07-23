@@ -23,6 +23,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png" />
+<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
 
 <br />
 <br />
