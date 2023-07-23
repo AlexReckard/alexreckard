@@ -1,12 +1,12 @@
-# Hi there, I'm Alexander, but you can call me Alex 👋
+# Hello, I'm Alexander, but feel free to call me Alex 👋
 
-## I'm a Frontend Developer, Creator, and Lifelong Learner!
+## I'm a Frontend Developer, Creator, and an avid Learner!
 
-- 🚀 I’m currently working on a blog to maintain and scale over time.
-- 📚 I’m currently learning more about DSA & Backend.
-- 💬 Ask me about: Anything related to Frontend or UI/UX.
+- 🚀 I’m currently focused on developing and expanding a blog for long-term success.
+- 📚 I’m actively studying Data Structures, Algorithms, and Backend development.
+- 💬 Feel free to ask me anything related to Frontend or UI/UX.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy video games and working out at the gym.
+- ⚡ Fun fact: I find enjoyment in playing video games and hitting the gym 💪🏻.
 
 ### Connect with me:
 
