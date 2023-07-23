@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alex reckard website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />][website]
+[<img align="left" alt="alex reckard website" width="22px" src="https://alexreckard.com/images/icon.png" />][website]
 [<img align="left" alt="LinkedIn URL" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
-[<img align="left" alt="Instagram URL" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram URL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
