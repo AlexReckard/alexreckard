@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="yourWebsite.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+<img align="left" alt="alex reckard website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
 <img align="left" alt="LinkedIn URL" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />[linkedin]
 <img align="left" alt="Instagram URL" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/instagram.svg" />[instagram]
 
