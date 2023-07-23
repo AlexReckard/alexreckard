@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer, Creator, and Lifelong Learner!
 
 - 🚀 I’m currently working on a blog to maintain and scale over time.
-- 📚 I’m currently learning more about Data Structures and Algorithms.
+- 📚 I’m currently learning more about DSA & Backend.
 - 💬 Ask me about: Anything related to Frontend or UI/UX.
 - 📧 How to reach me: www.linkedin.com/in/alexreckard
 - 😄 Pronouns: He/Him
