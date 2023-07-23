@@ -5,7 +5,6 @@
 - 🚀 I’m currently focused on developing and expanding a blog for long-term success.
 - 📚 I’m actively studying Data Structures, Algorithms, and Backend development.
 - 💬 Feel free to ask me anything related to Frontend or UI/UX.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I find enjoyment in playing video games and hitting the gym 💪🏻.
 
 ### Connect with me:
