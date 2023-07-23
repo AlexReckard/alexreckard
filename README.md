@@ -5,7 +5,6 @@
 - 🚀 I’m currently working on a blog to maintain and scale over time.
 - 📚 I’m currently learning more about DSA & Backend.
 - 💬 Ask me about: Anything related to Frontend or UI/UX.
-- 📧 How to reach me: [linkedin]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy video games and working out at the gym.
 
