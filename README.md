@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="FIGMA" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
