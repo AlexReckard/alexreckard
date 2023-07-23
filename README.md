@@ -19,9 +19,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />]
