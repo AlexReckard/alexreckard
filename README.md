@@ -5,7 +5,7 @@
 - 🚀 I’m currently working on a blog to maintain and scale over time.
 - 📚 I’m currently learning more about Data Structures and Algorithms.
 - 💬 Ask me about: Anything related to Frontend or UI/UX.
-- 📧 How to reach me: <p align="center"><a href="https://www.linkedin.com/in/alexreckard"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn"></a>
+- 📧 How to reach me: <p align="left"><a href="https://www.linkedin.com/in/alexreckard"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn"></a>
 </p>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy video games and working out at the gym.
